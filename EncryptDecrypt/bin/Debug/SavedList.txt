@@ -1,0 +1,10 @@
+2	Account manager 	- 	Yudita@rangam.com	,	Rangam@123
+5	HR manager 	- 	 geetanjali@rangam.com 	,rangam@123
+6	Operation Manager 	-	 Snehap@rangam.com,Sneha@123
+8	Recruiter 	- 	Abhijeet@rangam.com,A@rangam1
+9	Resource Coordinator 	- 	chirayu@rangam.com,Rangam@123
+10	Search Associate	 - 	rohanpatel@rangam.com,Rangam&1512
+14	Team Leader 	- 	vibha@rangam.com, rangam@123
+15	Trainer	 - 	test123@rangam.com ,12345
+16	Operator 	- 	mansi@rangam.com,Mansi@123
+17	HR	 - 	nimmi@rangam.com, Nimmi@204

@@ -1,0 +1,6 @@
+D:\Nikita\DemoProjects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+D:\Nikita\DemoProjects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+D:\Nikita\DemoProjects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+D:\Nikita\DemoProjects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojResolveAssemblyReference.cache
+D:\Nikita\DemoProjects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+D:\Nikita\DemoProjects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
